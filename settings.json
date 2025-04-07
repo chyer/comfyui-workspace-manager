@@ -1,0 +1,31 @@
+{
+    "id": "guest",
+    "topBarStyle": {
+        "top": 6,
+        "left": 691
+    },
+    "myWorkflowsDir": "G:\\ComfyUI_CU2\\Workflow_Manager\\my_workflows_CU3",
+    "shortcuts": {
+        "save": "Shift+S",
+        "saveAs": "Control+Alt+S",
+        "openSpotlightSearch": "Control+P"
+    },
+    "defaultFolders": {
+        "Checkpoint": "checkpoints",
+        "TextualInversion": "embeddings",
+        "Hypernetwork": "hypernetworks",
+        "LORA": "loras",
+        "Controlnet": "controlnet",
+        "Upscaler": "upscale_models",
+        "VAE": "vae"
+    },
+    "autoSave": false,
+    "autoSaveDuration": 3,
+    "twoWaySync": true,
+    "foldersOnTop": true,
+    "cloudHost": "https://www.nodecafe.co",
+    "maximumChangelogNumber": 80,
+    "hideCoverImage": false,
+    "disableUnsavedWarning": false,
+    "showNsfwModelThumbnail": false
+}
